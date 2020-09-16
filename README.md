@@ -16,3 +16,9 @@ These are my solutions to the problem sets of the MIT Algorithms course offered 
       it, and removing the bottleneck by optimizing the code.
       
       The solution demanded implementing a more efficient data structure, the Priority Queue, from scratch, using Min Heap.
+      
+       
+<code>ps3</code> :
+
+      In this problem set, 
+      
