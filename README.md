@@ -20,5 +20,7 @@ These are my solutions to the problem sets of the MIT Algorithms course offered 
        
 <code>ps3</code> :
 
-      In this problem set, 
+      In this problem set, we had to implement an efficient sweep line algorithm, to find potential intersections between wires
+      in a logic gate circuit layout.
+      We were introduced to the Range Index ADT and had to implement it efficiently using (augmented) AVL trees.
       
