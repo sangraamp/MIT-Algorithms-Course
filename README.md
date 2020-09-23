@@ -1,5 +1,5 @@
 # MIT-Algorithms-Course
-These are my solutions to the problem sets of the MIT Algorithms course offered by MIT OCW. In case you are here to verify my resume, the ps3 folder is the folder where I implemented the sweep line algorithm and modified the Range Index using an augmented AVL tree. The code is in circuit2.py
+These are my solutions to the problem sets of the MIT Algorithms course offered by MIT OCW. In case you are here to verify my resume, the ps3 folder is the folder where I implemented the sweep line algorithm and modified the Range Index using an augmented AVL tree. The code is in circuit2.py.
 
 <code>ps2</code> : 
 
